@@ -29,6 +29,9 @@ bernoulli_posterior_plot(n, m, beta = beta, alpha =  alpha)
 # change the prior to a uniform prior
 bernoulli_posterior_plot(n, m, alpha = 1, beta = 1)
 
+bernoulli_posterior_plot(n, m, alpha = 1, beta = 1) + xlim(0.4, 0.75)
+bernoulli_posterior_plot(n, m, alpha = 3, beta = 5) + xlim(0.4, 0.75)
+
 
 
 
