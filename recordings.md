@@ -9,9 +9,10 @@ These are password protected, and you will have been given this password in the 
 
 # Day 2
 
-* Session 1
-* Session 2
-* Session 3
+* [Day 2, Session 1](https://vimeo.com/1092552985): In this session, we continued the introduction to MCMC methods and began using brms.
+* [Day 2, Session 2](https://vimeo.com/1092553549): In this session, we explored the results of a linear regression analysis done with brms, using this as an opportunity to discuss general features of Bayesian methods, or MCMC, or brms.
+* [Day 2, Session 3](https://vimeo.com/1092554207): In this session, we continued exploring the results of the linear regression, looking at the priors amongst other things.
+
 
 # Day 3
 
