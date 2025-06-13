@@ -15,7 +15,10 @@ These are password protected, and you will have been given this password in the 
 
 
 # Day 3
-(As of around 21:00 (GMT+1) 12 June 2025, Vimeo appears to be experiencing server problems so these videos may not be viewable yet; I assume this will resolve soon.)
-* [Day 3, Session 1](https://vimeo.com/1092877998): In this session, amongst other things, we focused on setting priors.
-* [Day 3, Session 2](https://vimeo.com/1092879038): In this session, amongst other things, we covered model comparison.
-* [Day 3, Session 3](https://vimeo.com/1092880247): In this session, amongst other things, we looked at generalized linear models, linear mixed effect models, and accelerating Stan running times in various ways.
+
+(The Vimeo server problems experienced on 12 June 2025 appear to be resolved now and these videos are now available to view ... at least to me.)
+
+
+* [Day 3, Session 1](https://vimeo.com/1093028953): In this session, amongst other things, we focused on setting priors.
+* [Day 3, Session 2](https://vimeo.com/1093029424): In this session, amongst other things, we covered model comparison.
+* [Day 3, Session 3](https://vimeo.com/1093029872): In this session, amongst other things, we looked at generalized linear models, linear mixed effect models, and accelerating Stan running times in various ways.
